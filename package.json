@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "name": "ejercicio2",
+  "description": "reto nodejs y mongodb",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liki08/ejercicio2-.git"
+  },
+  "author": "nicolas lisker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liki08/ejercicio2-/issues"
+  },
+  "homepage": "https://github.com/liki08/ejercicio2-#readme"
+}
